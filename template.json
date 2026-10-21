@@ -1,0 +1,23 @@
+{
+  "name": "Kà Àsà",
+  "slug": "ka-asa",
+  "concept": "Local-language learning project",
+  "category": "culture-community",
+  "subcategory": "language-learning",
+  "description": "Playful lesson hub for Yoruba, Igbo and Hausa: level tabs, a working language switcher, tone-marked alphabet board and meetup listings.",
+  "design_family": "playful-education",
+  "pages": [
+    "index.html"
+  ],
+  "features": [
+    "level tab navigation",
+    "working Yoruba/Igbo/Hausa switcher",
+    "tone-marked alphabet tiles",
+    "lesson cards with minutes",
+    "meetup listings",
+    "volunteer panel"
+  ],
+  "recommended_tier": "free-or-pro-review",
+  "preview_image": "preview/cover.png",
+  "status": "local-draft"
+}
